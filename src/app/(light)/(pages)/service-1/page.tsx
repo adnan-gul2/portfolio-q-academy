@@ -2,7 +2,8 @@ import { ServiceAbout, ServiceBanner, ServiceCapsule, ServiceOfferings, ServiceT
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Service 1 - Creative Portfolio Nextjs Template",
+    title: "Our Services - QuranWeb Studio | Quran Academy Website Design",
+    description: "Professional web design services for Quran academies including website design, student enrollment systems, class booking, LMS integration, and SEO optimization.",
 };
 const page = () => {
     return (

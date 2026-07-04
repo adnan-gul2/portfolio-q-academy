@@ -7,7 +7,7 @@ const AboutArea = () => {
                 <div className="row">
                     <div className="col-xl-12">
                         <div className="px-about-3-text text-center">
-                            <h2 className="px-about-3-bigtext">About pixora</h2>
+                            <h2 className="px-about-3-bigtext">About QuranWeb Studio</h2>
                         </div>
                     </div>
                 </div>
@@ -22,10 +22,10 @@ const AboutArea = () => {
                     <div className="col-xl-7">
                         <div className="px-about-3-content">
                             <p>
-                                Pixora is a creative  studio <br />
-                                based in Portugal, Brazil, and London. <br />
-                                We think like an  <span>agency</span> and <span>produce</span> <br />
-                                like a visuals for brands & agencies.
+                                We are a <span>specialized</span> web studio <br />
+                                building premium websites exclusively for <br />
+                                Quran academies and <span>Islamic education</span> <br />
+                                institutions worldwide.
                             </p>
                             <SmartLink className="px-btn-black" href="/about-us">
                                 More About Us

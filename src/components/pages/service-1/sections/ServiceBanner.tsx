@@ -5,8 +5,7 @@ import Image from "next/image";
 const ServiceBanner = () => {
     const isDarkTheme = useIsDarkRoute();
 
-    // Light theme background for service banner section
-    const sectionBackground = isDarkTheme ? "" : "#FFF5F3";
+    const sectionBackground = isDarkTheme ? "" : "#f0f7f4";
 
     return (
         <div id="top" className="px-inner-service-2-ptb pt-200 pb-80" style={{ backgroundColor: sectionBackground }}>
@@ -15,7 +14,7 @@ const ServiceBanner = () => {
                     <div className="col-xl-10 col-lg-9">
                         <div className="px-inner-service-2-heading">
                             <h3 className="px-inner-service-2-title">
-                                Shine in <br /> the <span>digital <br /> world</span>
+                                Services for <br /> <span>Quran <br /> Academies</span>
                             </h3>
                         </div>
                     </div>

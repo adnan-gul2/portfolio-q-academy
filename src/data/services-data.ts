@@ -4,61 +4,53 @@ export const servicesData: ServiceItemDT[] = [
     {
         id: 1,
         keyValue: "01",
-        title: "Brand Identity Design",
+        title: "Quran Academy Website Design",
         image: "/assets/img/service/service-1.jpg",
-        description: `Strategic, data-driven social media campaigns
-designed to build brand awareness & connect
-with your target audience.`,
+        description: `Beautiful, conversion-optimized websites designed specifically for Quran academies and Islamic schools.`,
         categories: [
-            "Content strategy",
-            "Analytics & reporting",
-            "Community management",
-            "4+",
+            "Responsive Design",
+            "Islamic Aesthetics",
+            "Fast Loading",
+            "Mobile-First",
         ],
     },
     {
         id: 2,
         keyValue: "02",
-        title: "Web design & development",
+        title: "Student Admission Systems",
         image: "/assets/img/service/service-2.jpg",
-        description: `Strategic, data-driven social media campaigns
-designed to build brand awareness & connect
-with your target audience.`,
+        description: `Streamlined enrollment systems that make it easy for students to register and join your academy.`,
         categories: [
-            "Content strategy",
-            "Analytics & reporting",
-            "Community management",
-            "4+",
+            "Online Registration",
+            "Payment Integration",
+            "Auto-Responses",
+            "CRM Integration",
         ],
     },
     {
         id: 3,
         keyValue: "03",
-        title: "SEO Optimization",
+        title: "Online Class Booking",
         image: "/assets/img/service/service-3.jpg",
-        description: `Strategic, data-driven social media campaigns
-designed to build brand awareness & connect
-with your target audience.`,
+        description: `Intelligent booking systems for scheduling Quran classes with qualified teachers worldwide.`,
         categories: [
-            "Content strategy",
-            "Analytics & reporting",
-            "Community management",
-            "4+",
+            "Teacher Calendar",
+            "Timezone Support",
+            "Automated Reminders",
+            "Video Integration",
         ],
     },
     {
         id: 4,
         keyValue: "04",
-        title: "Creative Web Solutions",
+        title: "Teacher Profile Management",
         image: "/assets/img/service/service-4.jpg",
-        description: `Strategic, data-driven social media campaigns
-designed to build brand awareness & connect
-with your target audience.`,
+        description: `Professional teacher profile pages showcasing qualifications, expertise, and availability.`,
         categories: [
-            "Content strategy",
-            "Analytics & reporting",
-            "Community management",
-            "4+",
+            "Profile Design",
+            "Availability Calendar",
+            "Student Reviews",
+            "Verification Badges",
         ],
     },
 
@@ -162,25 +154,25 @@ your audience.`,
 
 // service-2 inner service data start
 export const servicesNavItems = [
-    "Branding",
-    "Digital Design",
-    "Marketing Assets",
-    "Development",
+    "Website Design",
+    "Student Systems",
+    "Class Booking",
+    "SEO & Optimization",
 ];
 
 export const innerServices = [
     {
         id: 1,
-        title: "Branding",
+        title: "Website Design",
         descriptions: [
-            "Strong branding sets your startup apart, signaling quality and professionalism. It builds trust with your audience, making you stand out in a crowded market.",
+            "Beautiful, conversion-focused websites designed exclusively for Quran academies. Our designs reflect Islamic aesthetics while maintaining modern functionality.",
         ],
         categories: [
-            "Brand Naming",
-            "Creative Direction",
-            "Brand Strategy",
-            "Graphic charter",
-            "Logo Design",
+            "Responsive Design",
+            "Islamic Aesthetics",
+            "Mobile-First",
+            "Fast Loading",
+            "Accessibility",
         ],
         images: [
             "/assets/img/service/inner-service/service-1.jpg",
@@ -189,19 +181,18 @@ export const innerServices = [
     },
     {
         id: 2,
-        title: "Digital Design",
+        title: "Student Systems",
         descriptions: [
-            "A process of assumption & validation with a goal of taking into account all the necessary variables, which are always custom and are to be uncovered.",
-            "Every business has digital potential, and we are here to help you leverage that potential.",
+            "Complete student management systems including enrollment, progress tracking, and communication tools. Help your students succeed with intuitive dashboards.",
+            "From registration to graduation, track every student journey with our comprehensive management solutions.",
         ],
         categories: [
-            "Wireframe",
-            "UI design",
-            "Prototyping",
-            "Design system",
-            "UI & UX audit",
-            "Design System",
-            "Interactive Experiences",
+            "Online Registration",
+            "Progress Tracking",
+            "Student Dashboard",
+            "Parent Portal",
+            "Communication Tools",
+            "Payment Processing",
         ],
         images: [
             "/assets/img/service/inner-service/service-3.jpg",
@@ -210,18 +201,18 @@ export const innerServices = [
     },
     {
         id: 3,
-        title: "Marketing Assets",
+        title: "Class Booking",
         descriptions: [
-            "Marketing strategy is proudly responsible for the half of a campaign's success, another half relies solely on its implementation.",
-            "We focus on creating visuals that communicate your value and engage your audience.",
+            "Intelligent booking systems that handle timezone differences and automate scheduling. Students can book classes with their preferred teachers effortlessly.",
+            "Automated reminders, calendar sync, and seamless video integration for online Quran classes.",
         ],
         categories: [
-            "Animated logos",
-            "Product Illustrations",
-            "Launch Videos",
-            "Illustrations",
-            "Visual Effects",
-            "Illustration 3D",
+            "Teacher Calendar",
+            "Timezone Support",
+            "Automated Reminders",
+            "Video Integration",
+            "Booking Management",
+            "Availability Sync",
         ],
         images: [
             "/assets/img/service/inner-service/service-5.jpg",
@@ -230,15 +221,15 @@ export const innerServices = [
     },
     {
         id: 4,
-        title: "Development",
+        title: "SEO & Optimization",
         descriptions: [
-            "Efficiency and scalability. The two factors which any decision gets filtered out with - programming language, framework, library, each line of code, and server side.",
+            "Get found by more students with our specialized SEO services for Quran academies. We understand the Islamic education market and optimize accordingly.",
         ],
         categories: [
-            "Integration",
-            "Front-end",
-            "Back-end",
-            "Webflow",
+            "Local SEO",
+            "Technical SEO",
+            "Speed Optimization",
+            "Content Strategy",
         ],
         images: [
             "/assets/img/service/inner-service/service-7.jpg",

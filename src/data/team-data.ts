@@ -1,24 +1,23 @@
 import { TeamItemDT } from "@/types";
 
 export const team_members: TeamItemDT[] = [
-    // Creative agency & team section data
     {
         id: 1,
-        name: "Halvam Alvida",
-        role: "Founder & CEO",
+        name: "Ahmad Al-Rashid",
+        role: "Founder & Lead Designer",
         image: "/assets/img/team/team-1.jpg",
         animation: "px-fade-anim",
 
-        bio: "Focused on intuitive design and performance-driven solutions. Passionate about helping brands grow through impactful digital experiences and scalable product strategies.",
+        bio: "With over 8 years of experience in web development for Islamic education, I'm passionate about helping Quran academies establish their online presence and reach more students globally.",
 
-        location: "Berlin, Germany",
-        email: "halvam@pixora.com",
-        phone: "+49 176 2458 9102",
+        location: "Dubai, UAE",
+        email: "ahmad@quranweb.studio",
+        phone: "+971 50 123 4567",
         age: 34,
         gender: "Male",
-        qualification: "Master Degree in Product Design",
+        qualification: "MS in Computer Science",
         experience_years: "8+ Years",
-        website: "https://halvam.dev",
+        website: "https://quranweb.studio",
 
         social_links: {
             facebook: "#",
@@ -27,36 +26,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Founder & CEO at Pixora Studio (2021 - Present)",
-            "Senior Product Designer at Behance Agency (2019 - 2021)",
-            "UI Research Assistant at Berlin Tech Lab (2017 - 2019)",
+            "Founder at QuranWeb Studio (2020 - Present)",
+            "Senior Web Developer at Islamic Digital (2017 - 2020)",
+            "Frontend Developer at EduTech Solutions (2014 - 2017)",
         ],
 
         skills: [
-            { title: "UX Design", value: 95 },
-            { title: "Brand Strategy", value: 88 },
-            { title: "API Development", value: 82 },
+            { title: "Web Design", value: 95 },
+            { title: "Islamic UI/UX", value: 92 },
+            { title: "Next.js", value: 88 },
             { title: "Team Management", value: 90 },
         ],
     },
 
     {
         id: 2,
-        name: "Sajran Safina",
+        name: "Fatima Hassan",
         role: "Creative Director",
         image: "/assets/img/team/team-2.jpg",
         animation: "px-fade-anim",
 
-        bio: "Creative thinker with a strong background in branding, visual storytelling, and campaign direction for modern digital businesses.",
+        bio: "Specialized in Islamic design aesthetics and brand identity. I ensure every Quran academy website reflects the values and beauty of Islamic education.",
 
-        location: "Toronto, Canada",
-        email: "sajran@pixora.com",
-        phone: "+1 437 667 1209",
+        location: "Cairo, Egypt",
+        email: "fatima@quranweb.studio",
+        phone: "+20 2 1234 5678",
         age: 29,
         gender: "Female",
-        qualification: "Bachelor in Visual Communication",
+        qualification: "BA in Graphic Design",
         experience_years: "6+ Years",
-        website: "https://sajran.design",
+        website: "https://fatimahassan.design",
 
         social_links: {
             facebook: "#",
@@ -65,36 +64,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Creative Director at Pixora Studio (2022 - Present)",
-            "Brand Designer at Nova Agency (2020 - 2022)",
-            "Graphic Designer at Creatix Lab (2018 - 2020)",
+            "Creative Director at QuranWeb Studio (2021 - Present)",
+            "UI Designer at Creative Islamic Agency (2018 - 2021)",
+            "Graphic Designer at Al-Noor Media (2016 - 2018)",
         ],
 
         skills: [
+            { title: "Islamic Design", value: 96 },
             { title: "Brand Identity", value: 92 },
-            { title: "Creative Direction", value: 89 },
-            { title: "Illustration", value: 80 },
-            { title: "Figma", value: 95 },
+            { title: "Figma", value: 94 },
+            { title: "Typography", value: 88 },
         ],
     },
 
     {
         id: 3,
-        name: "Malhar Morshed",
+        name: "Omar Khan",
         role: "Lead Developer",
         image: "/assets/img/team/team-3.jpg",
         animation: "px-fade-anim",
 
-        bio: "Full-stack developer specialized in scalable web applications, cloud systems, and modern frontend technologies.",
+        bio: "Full-stack developer specialized in building learning management systems and booking platforms for Quran academies. Expert in creating seamless student experiences.",
 
-        location: "Dhaka, Bangladesh",
-        email: "malhar@pixora.com",
-        phone: "+880 1712-558822",
+        location: "London, UK",
+        email: "omar@quranweb.studio",
+        phone: "+44 7123 456789",
         age: 27,
         gender: "Male",
-        qualification: "BSc in Computer Science",
+        qualification: "BSc in Software Engineering",
         experience_years: "5+ Years",
-        website: "https://malharcodes.dev",
+        website: "https://omarkhan.dev",
 
         social_links: {
             facebook: "#",
@@ -103,36 +102,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Lead Developer at Pixora Studio (2023 - Present)",
-            "Frontend Engineer at Softvence (2021 - 2023)",
-            "Junior React Developer at DevStack (2020 - 2021)",
+            "Lead Developer at QuranWeb Studio (2022 - Present)",
+            "Full Stack Developer at LearnTech (2019 - 2022)",
+            "Junior Developer at WebSolutions (2017 - 2019)",
         ],
 
         skills: [
             { title: "React.js", value: 96 },
-            { title: "Next.js", value: 91 },
-            { title: "Node.js", value: 84 },
-            { title: "System Architecture", value: 78 },
+            { title: "Node.js", value: 91 },
+            { title: "Database Design", value: 88 },
+            { title: "API Development", value: 90 },
         ],
     },
 
     {
         id: 4,
-        name: "Ravian Rahima",
-        role: "Marketing Strategist",
+        name: "Aisha Mahmoud",
+        role: "Project Manager",
         image: "/assets/img/team/team-4.jpg",
         animation: "px-fade-anim",
 
-        bio: "Helping brands scale through data-driven marketing, audience targeting, and conversion-focused digital campaigns.",
+        bio: "Experienced project manager ensuring every Quran academy website is delivered on time and exceeds expectations. Your dedicated point of contact throughout the project.",
 
-        location: "Singapore",
-        email: "ravian@pixora.com",
-        phone: "+65 8124 4421",
+        location: "Toronto, Canada",
+        email: "aisha@quranweb.studio",
+        phone: "+1 416 555 0123",
         age: 31,
         gender: "Female",
-        qualification: "MBA in Digital Marketing",
+        qualification: "MBA in Project Management",
         experience_years: "7+ Years",
-        website: "https://ravianmedia.com",
+        website: "https://aishamahmud.com",
 
         social_links: {
             facebook: "#",
@@ -141,36 +140,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Marketing Strategist at Pixora Studio (2022 - Present)",
-            "Growth Manager at Clickify Media (2019 - 2022)",
-            "SEO Specialist at RankFlow (2017 - 2019)",
+            "Project Manager at QuranWeb Studio (2021 - Present)",
+            "PM at Digital Agency Pro (2018 - 2021)",
+            "Assistant PM at WebCorp (2015 - 2018)",
         ],
 
         skills: [
-            { title: "Digital Marketing", value: 94 },
-            { title: "SEO", value: 89 },
-            { title: "Content Strategy", value: 86 },
-            { title: "Analytics", value: 82 },
+            { title: "Project Management", value: 95 },
+            { title: "Client Relations", value: 92 },
+            { title: "Agile/Scrum", value: 88 },
+            { title: "Communication", value: 94 },
         ],
     },
 
     {
         id: 5,
-        name: "Emma Kate",
-        role: "UI/UX Designer",
+        name: "Yusuf Ibrahim",
+        role: "SEO Specialist",
         image: "/assets/img/team/team-5.jpg",
         animation: "px-fade-anim",
 
-        bio: "Passionate UI/UX designer creating elegant user experiences with a focus on accessibility and usability.",
+        bio: "SEO expert focused on helping Quran academies rank higher on Google. I understand the Islamic education market and optimize specifically for it.",
 
-        location: "London, UK",
-        email: "emma@pixora.com",
-        phone: "+44 7911 334455",
+        location: "Kuala Lumpur, Malaysia",
+        email: "yusuf@quranweb.studio",
+        phone: "+60 12 345 6789",
         age: 26,
-        gender: "Female",
-        qualification: "BA in Interaction Design",
+        gender: "Male",
+        qualification: "BA in Digital Marketing",
         experience_years: "4+ Years",
-        website: "https://emmakate.design",
+        website: "https://yusufseo.com",
 
         social_links: {
             facebook: "#",
@@ -179,34 +178,35 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "UI/UX Designer at Pixora Studio (2022 - Present)",
-            "Product Designer at CreativeX (2020 - 2022)",
+            "SEO Specialist at QuranWeb Studio (2022 - Present)",
+            "SEO Analyst at RankHigher (2020 - 2022)",
         ],
 
         skills: [
-            { title: "Figma", value: 95 },
-            { title: "Wireframing", value: 91 },
-            { title: "User Research", value: 84 },
+            { title: "SEO Strategy", value: 95 },
+            { title: "Keyword Research", value: 92 },
+            { title: "Technical SEO", value: 88 },
+            { title: "Analytics", value: 90 },
         ],
     },
 
     {
         id: 6,
-        name: "Lily Rose",
-        role: "Content Writer",
+        name: "Zainab Ali",
+        role: "Content Strategist",
         image: "/assets/img/team/team-6.jpg",
         animation: "px-fade-anim",
 
-        bio: "Content specialist crafting engaging copy for brands, websites, and digital marketing campaigns.",
+        bio: "Crafting compelling content for Quran academies that resonates with Muslim families seeking quality Islamic education for their children.",
 
-        location: "Sydney, Australia",
-        email: "lily@pixora.com",
-        phone: "+61 488 224 981",
+        location: "Riyadh, Saudi Arabia",
+        email: "zainab@quranweb.studio",
+        phone: "+966 50 123 4567",
         age: 28,
         gender: "Female",
-        qualification: "Bachelor in Journalism",
+        qualification: "BA in English Literature",
         experience_years: "5+ Years",
-        website: "https://lilywrites.com",
+        website: "https://zainabali.content",
 
         social_links: {
             facebook: "#",
@@ -215,34 +215,34 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Senior Content Writer at Pixora Studio (2021 - Present)",
-            "Copywriter at Bright Agency (2019 - 2021)",
+            "Content Strategist at QuranWeb Studio (2021 - Present)",
+            "Copywriter at Islamic Media Group (2018 - 2021)",
         ],
 
         skills: [
-            { title: "Copywriting", value: 92 },
-            { title: "SEO Content", value: 85 },
-            { title: "Storytelling", value: 88 },
+            { title: "Content Writing", value: 94 },
+            { title: "SEO Copy", value: 90 },
+            { title: "Brand Messaging", value: 88 },
         ],
     },
 
     {
         id: 7,
-        name: "John David",
+        name: "Bilal Ahmed",
         role: "Backend Engineer",
         image: "/assets/img/team/team-7.jpg",
         animation: "px-fade-anim",
 
-        bio: "Backend engineer focused on scalable APIs, microservices, and secure cloud infrastructure.",
+        bio: "Backend engineer building secure, scalable systems for student management and payment processing for Quran academies.",
 
-        location: "Austin, Texas",
-        email: "john@pixora.com",
-        phone: "+1 512 998 4411",
+        location: "Karachi, Pakistan",
+        email: "bilal@quranweb.studio",
+        phone: "+92 300 1234567",
         age: 32,
         gender: "Male",
-        qualification: "MSc in Software Engineering",
+        qualification: "MS in Software Engineering",
         experience_years: "9+ Years",
-        website: "https://johndavid.dev",
+        website: "https://bilalahmed.dev",
 
         social_links: {
             facebook: "#",
@@ -251,34 +251,34 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Backend Engineer at Pixora Studio (2020 - Present)",
-            "Software Engineer at CloudSync (2017 - 2020)",
+            "Backend Engineer at QuranWeb Studio (2020 - Present)",
+            "Software Engineer at TechCorp (2015 - 2020)",
         ],
 
         skills: [
             { title: "Node.js", value: 94 },
-            { title: "Database Design", value: 90 },
-            { title: "AWS", value: 85 },
+            { title: "Database Design", value: 92 },
+            { title: "Cloud Services", value: 88 },
         ],
     },
 
     {
         id: 8,
-        name: "Anna Grace",
-        role: "HR Manager",
+        name: "Khadija Hassan",
+        role: "UI/UX Designer",
         image: "/assets/img/team/team-8.jpg",
         animation: "px-fade-anim",
 
-        bio: "People-focused HR manager dedicated to building collaborative teams and healthy workplace culture.",
+        bio: "Creating intuitive, accessible interfaces for Quran academy websites that work beautifully for students and teachers worldwide.",
 
-        location: "Amsterdam, Netherlands",
-        email: "anna@pixora.com",
-        phone: "+31 612 882 144",
+        location: "Istanbul, Turkey",
+        email: "khadija@quranweb.studio",
+        phone: "+90 532 123 4567",
         age: 30,
         gender: "Female",
-        qualification: "MBA in Human Resource Management",
+        qualification: "BA in Interaction Design",
         experience_years: "7+ Years",
-        website: "https://annagracehr.com",
+        website: "https://khadijahassan.design",
 
         social_links: {
             facebook: "#",
@@ -287,34 +287,34 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "HR Manager at Pixora Studio (2021 - Present)",
-            "Talent Acquisition Specialist at HireFlow (2018 - 2021)",
+            "UI/UX Designer at QuranWeb Studio (2021 - Present)",
+            "Product Designer at DesignHub (2017 - 2021)",
         ],
 
         skills: [
-            { title: "Recruitment", value: 91 },
-            { title: "Leadership", value: 88 },
-            { title: "Communication", value: 93 },
+            { title: "Figma", value: 95 },
+            { title: "User Research", value: 91 },
+            { title: "Accessibility", value: 89 },
         ],
     },
     //About us team data
     {
         id: 9,
-        name: "Halvam Alvida",
-        role: "Founder & CEO",
+        name: "Ahmad Al-Rashid",
+        role: "Founder & Lead Designer",
         image: "/assets/img/team/team-1.jpg",
         animation: "px-fade-anim",
 
-        bio: "Focused on intuitive design and performance-driven solutions. Passionate about helping brands grow through impactful digital experiences and scalable product strategies.",
+        bio: "With over 8 years of experience in web development for Islamic education, I'm passionate about helping Quran academies establish their online presence.",
 
-        location: "Berlin, Germany",
-        email: "halvam@pixora.com",
-        phone: "+49 176 2458 9102",
+        location: "Dubai, UAE",
+        email: "ahmad@quranweb.studio",
+        phone: "+971 50 123 4567",
         age: 34,
         gender: "Male",
-        qualification: "Master Degree in Product Design",
+        qualification: "MS in Computer Science",
         experience_years: "8+ Years",
-        website: "https://halvam.dev",
+        website: "https://quranweb.studio",
 
         social_links: {
             facebook: "#",
@@ -323,36 +323,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Founder & CEO at Pixora Studio (2021 - Present)",
-            "Senior Product Designer at Behance Agency (2019 - 2021)",
-            "UI Research Assistant at Berlin Tech Lab (2017 - 2019)",
+            "Founder at QuranWeb Studio (2020 - Present)",
+            "Senior Web Developer at Islamic Digital (2017 - 2020)",
+            "Frontend Developer at EduTech Solutions (2014 - 2017)",
         ],
 
         skills: [
-            { title: "UX Design", value: 95 },
-            { title: "Brand Strategy", value: 88 },
-            { title: "API Development", value: 82 },
+            { title: "Web Design", value: 95 },
+            { title: "Islamic UI/UX", value: 92 },
+            { title: "Next.js", value: 88 },
             { title: "Team Management", value: 90 },
         ],
     },
 
     {
         id: 10,
-        name: "Sajran Safina",
+        name: "Fatima Hassan",
         role: "Creative Director",
         image: "/assets/img/team/team-2.jpg",
         animation: "px-fade-anim",
 
-        bio: "Creative thinker with a strong background in branding, visual storytelling, and campaign direction for modern digital businesses.",
+        bio: "Specialized in Islamic design aesthetics and brand identity. I ensure every Quran academy website reflects the values and beauty of Islamic education.",
 
-        location: "Toronto, Canada",
-        email: "sajran@pixora.com",
-        phone: "+1 437 667 1209",
+        location: "Cairo, Egypt",
+        email: "fatima@quranweb.studio",
+        phone: "+20 2 1234 5678",
         age: 29,
         gender: "Female",
-        qualification: "Bachelor in Visual Communication",
+        qualification: "BA in Graphic Design",
         experience_years: "6+ Years",
-        website: "https://sajran.design",
+        website: "https://fatimahassan.design",
 
         social_links: {
             facebook: "#",
@@ -361,36 +361,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Creative Director at Pixora Studio (2022 - Present)",
-            "Brand Designer at Nova Agency (2020 - 2022)",
-            "Graphic Designer at Creatix Lab (2018 - 2020)",
+            "Creative Director at QuranWeb Studio (2021 - Present)",
+            "UI Designer at Creative Islamic Agency (2018 - 2021)",
+            "Graphic Designer at Al-Noor Media (2016 - 2018)",
         ],
 
         skills: [
+            { title: "Islamic Design", value: 96 },
             { title: "Brand Identity", value: 92 },
-            { title: "Creative Direction", value: 89 },
-            { title: "Illustration", value: 80 },
-            { title: "Figma", value: 95 },
+            { title: "Figma", value: 94 },
+            { title: "Typography", value: 88 },
         ],
     },
 
     {
         id: 11,
-        name: "Malhar Morshed",
+        name: "Omar Khan",
         role: "Lead Developer",
         image: "/assets/img/team/team-3.jpg",
         animation: "px-fade-anim",
 
-        bio: "Full-stack developer specialized in scalable web applications, cloud systems, and modern frontend technologies.",
+        bio: "Full-stack developer specialized in building learning management systems and booking platforms for Quran academies.",
 
-        location: "Dhaka, Bangladesh",
-        email: "malhar@pixora.com",
-        phone: "+880 1712-558822",
+        location: "London, UK",
+        email: "omar@quranweb.studio",
+        phone: "+44 7123 456789",
         age: 27,
         gender: "Male",
-        qualification: "BSc in Computer Science",
+        qualification: "BSc in Software Engineering",
         experience_years: "5+ Years",
-        website: "https://malharcodes.dev",
+        website: "https://omarkhan.dev",
 
         social_links: {
             facebook: "#",
@@ -399,36 +399,36 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Lead Developer at Pixora Studio (2023 - Present)",
-            "Frontend Engineer at Softvence (2021 - 2023)",
-            "Junior React Developer at DevStack (2020 - 2021)",
+            "Lead Developer at QuranWeb Studio (2022 - Present)",
+            "Full Stack Developer at LearnTech (2019 - 2022)",
+            "Junior Developer at WebSolutions (2017 - 2019)",
         ],
 
         skills: [
             { title: "React.js", value: 96 },
-            { title: "Next.js", value: 91 },
-            { title: "Node.js", value: 84 },
-            { title: "System Architecture", value: 78 },
+            { title: "Node.js", value: 91 },
+            { title: "Database Design", value: 88 },
+            { title: "API Development", value: 90 },
         ],
     },
 
     {
         id: 12,
-        name: "Ravian Rahima",
-        role: "Marketing Strategist",
+        name: "Aisha Mahmoud",
+        role: "Project Manager",
         image: "/assets/img/team/team-4.jpg",
         animation: "px-fade-anim",
 
-        bio: "Helping brands scale through data-driven marketing, audience targeting, and conversion-focused digital campaigns.",
+        bio: "Experienced project manager ensuring every Quran academy website is delivered on time and exceeds expectations.",
 
-        location: "Singapore",
-        email: "ravian@pixora.com",
-        phone: "+65 8124 4421",
+        location: "Toronto, Canada",
+        email: "aisha@quranweb.studio",
+        phone: "+1 416 555 0123",
         age: 31,
         gender: "Female",
-        qualification: "MBA in Digital Marketing",
+        qualification: "MBA in Project Management",
         experience_years: "7+ Years",
-        website: "https://ravianmedia.com",
+        website: "https://aishamahmud.com",
 
         social_links: {
             facebook: "#",
@@ -437,16 +437,16 @@ export const team_members: TeamItemDT[] = [
         },
 
         experiences: [
-            "Marketing Strategist at Pixora Studio (2022 - Present)",
-            "Growth Manager at Clickify Media (2019 - 2022)",
-            "SEO Specialist at RankFlow (2017 - 2019)",
+            "Project Manager at QuranWeb Studio (2021 - Present)",
+            "PM at Digital Agency Pro (2018 - 2021)",
+            "Assistant PM at WebCorp (2015 - 2018)",
         ],
 
         skills: [
-            { title: "Digital Marketing", value: 94 },
-            { title: "SEO", value: 89 },
-            { title: "Content Strategy", value: 86 },
-            { title: "Analytics", value: 82 },
+            { title: "Project Management", value: 95 },
+            { title: "Client Relations", value: 92 },
+            { title: "Agile/Scrum", value: 88 },
+            { title: "Communication", value: 94 },
         ],
     },
 

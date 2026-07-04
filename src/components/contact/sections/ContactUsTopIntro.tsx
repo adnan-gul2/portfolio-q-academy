@@ -11,15 +11,15 @@ const ContactUsTopIntro = () => {
                         <div className="col-xl-12">
                             <div className="tp-contact-us-heading tp_fade_anim" data-delay=".3">
                                 <div className="tp-contact-us-title-box d-flex align-items-center mb-20">
-                                    <span className="tp-section-subtitle pre tp_fade_anim">contact us</span>
+                                    <span className="tp-section-subtitle pre tp_fade_anim">Get in touch</span>
                                     <div>
                                         <BigArrowIcon />
                                     </div>
                                 </div>
-                                <h3 className="tp-section-title pb-30">Your creative{" "}
+                                <h3 className="tp-section-title pb-30">Let us build your{" "}
                                     <span className="shape-1">
                                         <Image width={65} height={65} src="/assets/img/contact/title-shape-1.webp" alt="shape" />
-                                    </span> <br />journey starts here
+                                    </span> <br />Quran Academy website
                                 </h3>
                             </div>
                         </div>
@@ -28,7 +28,7 @@ const ContactUsTopIntro = () => {
                         <div className="col-lg-4"></div>
                         <div className="col-lg-8">
                             <div className="tp-contact-us-text tp_fade_anim">
-                                <p className="m-0">Pixora is a beacon of best innovation and the dynamic <br /> parent a company of wealcoder and many other subsidiaries.</p>
+                                <p className="m-0">Book a free consultation and discover how we can transform <br /> your Quran academy's online presence to attract more students.</p>
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ const ContactUsTopIntro = () => {
                         </div>
                         <div className="col-md-6">
                             <div className="tp-contact-us-text d-none d-md-block text-md-end">
-                                <p>See in Map our Office</p>
+                                <p>Free Consultation Available</p>
                             </div>
                         </div>
                     </div>

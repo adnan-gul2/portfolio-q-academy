@@ -8,9 +8,9 @@ const ContactUsAbout = () => {
                         <div className="cn-contactform-support-bg d-flex align-items-center justify-content-center"
                             style={{ backgroundImage: `url(/assets/img/contact/contact-us/contact-us-shape.png)` }}>
                             <div className="cn-contactform-support-text text-center">
-                                <span>Or, you can contact one of our studios
-                                    directly below. We aim to respond
-                                    within 24 hours.
+                                <span>Or, you can contact us directly below.
+                                    We aim to respond within 24 hours
+                                    and offer free consultations.
                                 </span>
                             </div>
                         </div>

@@ -2,7 +2,7 @@ import { redirect } from "next/navigation";
 
 export default function RootPage() {
   try {
-    redirect("/startup-agency");
+    redirect("/quran-academy");
   } catch (error) {
     // Next.js redirect intentionally throws an error
     if (error instanceof Error && error.message.includes('NEXT_REDIRECT')) {

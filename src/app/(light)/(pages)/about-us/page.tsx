@@ -2,7 +2,8 @@ import { AboutArea, AboutTwoArea, AboutUsAward, AboutUsFunfact, AboutUsService, 
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "About Us - Creative Portfolio Nextjs Template",
+    title: "About Us - QuranWeb Studio | Specialized in Quran Academy Websites",
+    description: "We are a specialized web development agency focused exclusively on building premium websites for Quran academies and Islamic education institutions.",
 };
 const page = () => {
     return (

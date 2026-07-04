@@ -6,6 +6,12 @@ $colors: (
         'red': #E11010,
         'orange': #FF471D,
         'orange-dark': #FF572D,
+        'emerald': #1a5c45,
+        'emerald-dark': #144a38,
+        'emerald-light': #1e6b52,
+        'gold': #c9a84c,
+        'gold-dark': #b8973b,
+        'gold-light': #d4b85e,
     ),
     'grey-px': (
         '1':#F6F7F9,
@@ -14,7 +20,8 @@ $colors: (
         'body':#6D6868,
     ),
     'theme-px': (
-        '1': #FF5E00,
+        '1': #1a5c45,
+        '2': #c9a84c,
     ),
     'border-px': (
         '1': #EAEBED,
