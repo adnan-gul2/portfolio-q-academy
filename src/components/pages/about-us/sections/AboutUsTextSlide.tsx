@@ -23,32 +23,32 @@ const AboutUsTextSlide = () => {
                 >
                     <SwiperSlide>
                         <div className="px-hero-6-text">
-                            <span>a new generation of digital creators</span>
+                            <span>empowering Quran academies with modern web solutions</span>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="px-hero-6-text">
-                            <span>a new generation of digital creators</span>
+                            <span>empowering Quran academies with modern web solutions</span>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="px-hero-6-text">
-                            <span>a new generation of digital creators</span>
+                            <span>empowering Quran academies with modern web solutions</span>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="px-hero-6-text">
-                            <span>a new generation of digital creators</span>
+                            <span>empowering Quran academies with modern web solutions</span>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="px-hero-6-text">
-                            <span>a new generation of digital creators</span>
+                            <span>empowering Quran academies with modern web solutions</span>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="px-hero-6-text">
-                            <span>a new generation of digital creators</span>
+                            <span>empowering Quran academies with modern web solutions</span>
                         </div>
                     </SwiperSlide>
                 </Swiper>

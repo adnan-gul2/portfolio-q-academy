@@ -3,30 +3,30 @@ import AnimatedCounterTwo from "@/components/shared/MetricsCounter/AnimatedCount
 const funfacts = [
     {
         id: 1,
-        end: 240,
+        end: 150,
         suffix: "+",
-        label: "Clients Across the world",
+        label: "Quran Academies Served",
         delay: ".3",
     },
     {
         id: 2,
-        end: 19,
+        end: 8,
         suffix: "+",
-        label: "Years of Experience",
+        label: "Years Serving Islamic Education",
         delay: ".5",
     },
     {
         id: 3,
-        end: 236,
+        end: 200,
         suffix: "+",
-        label: "Successfully projects done",
+        label: "Websites Launched",
         delay: ".7",
     },
     {
         id: 4,
-        end: 98,
+        end: 97,
         suffix: "%",
-        label: "Clients satisfied & retention",
+        label: "Academies Satisfied",
         delay: ".8",
     },
 ];

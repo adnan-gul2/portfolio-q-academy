@@ -16,7 +16,7 @@ const AboutUsTeam = () => {
                         <div className="col-xl-8 col-lg-8 col-md-9">
                             <div className="px-team-title-box">
                                 <h3 className="px-section-title ff-thunder fs-100 mb-0">
-                                    Meet the <br /> talented team
+                                    Meet the <br /> QuranWeb Team
                                 </h3>
                             </div>
                         </div>

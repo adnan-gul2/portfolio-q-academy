@@ -7,16 +7,16 @@ interface toolboxDt {
 }
 
 export const SERVICE_CAPSULE_ITEMS : toolboxDt[] = [
-    {id: "development-1", label: "Development", width: 220, height: 220, bg: "#FFBAE3" },
-    {id: "marketing-2", label: "Marketing", width: 220, height: 220, bg: "#FFBAE3" },
-    {id: "e-commerce-3", label: "E-commerce", width: 220, height: 220, bg: "#FFCF68" },
-    {id: "marketing-4", label: "Marketing", width: 220, height: 220, bg: "#FFCF68" },
-    {id: "branding-5", label: "Branding", bg: "#A9E6FF" },
-    {id: "smm-6", label: "SMM", bg: "#FFBAE3" },
-    {id: "web-design-7", label: "Web Design", bg: "#A9E6FF" },
-    {id: "analysis-8", label: "Analysis",bg:"#A9E6FF"},
-    {id: "seo-9", label: "SEO"},
-    {id: "illustration-10", label: "Illustration" },
-    {id: "seo-11", label: "SEO", bg: "#FFBAE3" },
-    {id: "ui-ux-12", label: "UI/UX", bg: "#FFCF68" },
+    {id: "web-design-1", label: "Web Design", width: 220, height: 220, bg: "#1a5c45" },
+    {id: "student-mgmt-2", label: "Student Mgmt", width: 220, height: 220, bg: "#1a5c45" },
+    {id: "quran-booking-3", label: "Class Booking", width: 220, height: 220, bg: "#c9a84c" },
+    {id: "lms-4", label: "LMS Integration", width: 220, height: 220, bg: "#c9a84c" },
+    {id: "donations-5", label: "Donations", bg: "#1a5c45" },
+    {id: "teacher-6", label: "Teacher Portals", bg: "#1a5c45" },
+    {id: "seo-7", label: "SEO", bg: "#c9a84c" },
+    {id: "hifz-8", label: "Hifz Tracking",bg: "#c9a84c"},
+    {id: "mobile-9", label: "Mobile Ready"},
+    {id: "support-10", label: "Support" },
+    {id: "hosting-11", label: "Hosting", bg: "#1a5c45" },
+    {id: "analytics-12", label: "Analytics", bg: "#c9a84c" },
 ];

@@ -9,10 +9,10 @@ const ServiceAbout = () => {
                     <div className="col-xl-10">
                         <div className="px-about-4-title-box mb-55">
                             <h3 className="px-section-title ff-inter px-fade-anim">
-                                PASSIONATELY PUSHING THE <br />
-                                BOUNDARIES OF CREATIVE EXCELLENCE. <br />
-                                REDEFINING POSSIBILITIES IN THE <br />
-                                REALMS OF DESIGN.
+                                DEDICATED TO EMPOWERING <br />
+                                QURAN ACADEMIES WITH MODERN <br />
+                                WEB SOLUTIONS THAT INSPIRE <br />
+                                LEARNING AND GROWTH.
                             </h3>
                         </div>
                     </div>
@@ -22,9 +22,9 @@ const ServiceAbout = () => {
                         <div className="px-about-4-content">
                             <div className="px-fade-anim">
                                 <p>
-                                    <span>Our focus is on creating functional,</span> fast, & <br />
-                                    well-structured websites that meet business goals <br />
-                                    without unnecessary complexity.
+                                    <span>We specialize in building beautiful,</span> functional <br />
+                                    websites tailored specifically for Quran academies <br />
+                                    and Islamic educational institutions worldwide.
                                 </p>
                             </div>
                             <div className="px-fade-anim">

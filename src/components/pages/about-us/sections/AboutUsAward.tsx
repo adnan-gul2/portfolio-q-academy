@@ -12,11 +12,11 @@ const AboutUsAward = () => {
                 <div className="px-award-title-wrap mb-50">
                     <div className="row align-items-center">
                         <div className="col-xl-4">
-                            <h3 className="px-section-subtitle">Awards</h3>
+                            <h3 className="px-section-subtitle">Achievements</h3>
                         </div>
                         <div className="col-xl-8">
                             <h3 className="px-section-title ff-thunder fs-100">
-                                Awards & <br /> recognitions.
+                                Our <br /> Achievements
                             </h3>
                         </div>
                     </div>

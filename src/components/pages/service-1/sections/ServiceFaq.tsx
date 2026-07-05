@@ -5,29 +5,29 @@ import ServiceFaqItem from "../components/ServiceFaqItem";
 const FAQ_ITEMS = [
     {
         id: 1,
-        title: "How long does it take to build a website?",
+        title: "How long does it take to build a Quran academy website?",
     },
     {
         id: 2,
-        title: "Website Development Timeline: What to Expect",
+        title: "What features do you include for Quran academies?",
     },
     {
         id: 3,
-        title: "How Should Building a Website Really Take?",
+        title: "Can you integrate online Quran class booking?",
     },
     {
         id: 4,
-        title: "The Time It Takes to Build a Website?",
+        title: "Do you provide ongoing support after launch?",
     },
 ];
 
 const FAQ_DESCRIPTION =
-    "Timelines depend on the spec of the website project, but here are some guidelines...";
+    "We deliver comprehensive web solutions tailored for Islamic education institutions...";
 
 const FAQ_LIST = [
-    "Shopify projects usually take around four weeks.",
-    "Craft CMS projects usually take a minimum of five weeks.",
-    "Craft Commerce projects usually take a minimum of eight weeks.",
+    "Basic Quran academy websites are typically completed in 2-3 weeks.",
+    "Full-featured student management systems take 4-6 weeks.",
+    "Custom solutions with donation portals and LMS integration may take 8+ weeks.",
 ];
 
 const ServiceFaq = () => {
@@ -39,11 +39,11 @@ const ServiceFaq = () => {
                     <div className="col-xl-6 col-lg-5">
                         <div className="px-inner-service-2-heading mb-40">
                             <span className="px-capsule-subtitle">
-                                Digital Services
+                                Quran Academy Services
                             </span>
 
                             <h3 className="px-section-title ff-thunder fs-100 mb-30">
-                                The answers <br /> to your questions.
+                                Your questions <br /> answered.
                             </h3>
                         </div>
                     </div>

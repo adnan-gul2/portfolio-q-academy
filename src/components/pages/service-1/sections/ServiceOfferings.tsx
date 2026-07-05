@@ -6,37 +6,37 @@ const serviceData = [
     {
         id: 1,
         icon: "/assets/img/service/icon/icon-1.png",
-        title: "Brand Strategy",
-        desc: `Brand identity design a the have
-to success whether you breath onfire
-quanto agency.`,
+        title: "Quran Academy Websites",
+        desc: `Beautiful, responsive website design
+tailored specifically for Quran academies
+and Islamic schools.`,
         link: "/service-1",
     },
     {
         id: 2,
         icon: "/assets/img/service/icon/icon-2.png",
-        title: "Web Development",
-        desc: `Brand identity design a the have
-to success whether you breath onfire
-quanto agency.`,
+        title: "Student Management",
+        desc: `Complete enrollment and attendance
+systems for managing Quran students
+and tracking progress.`,
         link: "/service-1",
     },
     {
         id: 3,
         icon: "/assets/img/service/icon/icon-3.png",
-        title: "UI/UX Design",
-        desc: `Brand identity design a the have
-to success whether you breath onfire
-quanto agency.`,
+        title: "Online Booking",
+        desc: `Integrated scheduling systems for
+online Quran classes and Hifz
+program enrollments.`,
         link: "/service-1",
     },
     {
         id: 4,
         icon: "/assets/img/service/icon/icon-4.png",
-        title: "Digital Marketing",
-        desc: `Brand identity design a the have
-to success whether you breath onfire
-quanto agency.`,
+        title: "Donation Portals",
+        desc: `Secure online donation and Zakat
+collection systems to support your
+academy's mission.`,
         link: "/service-1",
     },
 ];

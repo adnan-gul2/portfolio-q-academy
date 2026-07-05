@@ -13,7 +13,7 @@ const ServiceCapsule = () => {
                         <div className="px-capsule-inner p-relative">
                             <div className="px-capsule-top-wrapper p-relative" data-px-throwable-scene="true" ref={sceneRef}>
                                 <div className="px-capsule-title-wrapper">
-                                    <span className="px-capsule-subtitle">Digital Services</span>
+                                    <span className="px-capsule-subtitle">Quran Academy Services</span>
                                     <h3 className="px-capsule-title">We can <br /> help with...</h3>
                                 </div>
                                 <div className="px-capsule-item-wrapper">

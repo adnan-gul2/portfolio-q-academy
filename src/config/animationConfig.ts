@@ -8,6 +8,7 @@ import { aboutSkewAnimation, brandSkewAnimation, headerLogoAnimAnimation, initAw
 
 export const animationConfig: Record<string, (() => void)[]> = {
     //Light page animation
+    "/quran-academy": [aboutSkewAnimation, brandSkewAnimation, initScrollSkewParallaxSections, textEffectAnimation],
     "/startup-agency": [aboutSkewAnimation, brandSkewAnimation, initScrollSkewParallaxSections, textEffectAnimation],
     "/design-studio": [portfolioPanelAnimation, textEffectAnimation],
     "/modern-agency": [textEffectAnimation],

@@ -3,23 +3,23 @@ import AboutServiceItem from "../components/AboutServiceItem";
 const services = [
     {
         id: "01",
-        title: "Design",
-        desc: "Delivering strong, user-friendly designs exclusively paired with development.",
+        title: "Website Design",
+        desc: "Beautiful, responsive websites designed specifically for Quran academies and Islamic schools.",
     },
     {
         id: "02",
-        title: "Development",
-        desc: "Delivering strong, user-friendly designs exclusively paired with development.",
+        title: "Student Management",
+        desc: "Complete enrollment, attendance, and progress tracking systems for Islamic institutions.",
     },
     {
         id: "03",
-        title: "Digital advice",
-        desc: "Delivering strong, user-friendly designs exclusively paired with development.",
+        title: "Online Learning",
+        desc: "Integrated booking and scheduling systems for online Quran classes and Hifz programs.",
     },
     {
         id: "04",
-        title: "Branding",
-        desc: "Delivering strong, user-friendly designs exclusively paired with development.",
+        title: "Donation Portals",
+        desc: "Secure online donation and Zakat collection systems to support your academy's mission.",
     },
 ];
 
@@ -32,7 +32,7 @@ const AboutUsService = () => {
                     {/* Left Title */}
                     <div className="col-lg-4">
                         <div className="aus-service-subtitle-box">
-                            <span className="px-section-subtitle">OUR SOLUTIONS</span>
+                            <span className="px-section-subtitle">QURAN ACADEMY SOLUTIONS</span>
                         </div>
                     </div>
 

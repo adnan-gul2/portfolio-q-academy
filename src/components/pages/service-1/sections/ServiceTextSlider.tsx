@@ -5,14 +5,14 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { text_slider_active } from "@/constant";
 
 const sliderItems = [
-    "We develop & create digital future",
-    "Infographic and other",
-    "We develop & create digital future",
-    "Web Design & Development",
-    "We develop & create digital future",
-    "Infographic and other",
-    "We develop & create digital future",
-    "Web Design & Development",
+    "Websites for Quran Academies",
+    "Student Management Systems",
+    "Online Class Booking",
+    "Islamic School Solutions",
+    "Websites for Quran Academies",
+    "Student Management Systems",
+    "Online Class Booking",
+    "Islamic School Solutions",
 ];
 
 const ServiceTextSlider = () => {
@@ -20,7 +20,7 @@ const ServiceTextSlider = () => {
         <div className="px-text-slider-area">
             <div
                 className="px-text-slider-wrap px-text-slider-style-5 pt-30"
-                style={{ backgroundColor: "#ff471d" }}
+                style={{ backgroundColor: "#1a5c45" }}
             >
                 <div className="px-text-slider-active-2 tp-slider-transtion">
                     <Swiper

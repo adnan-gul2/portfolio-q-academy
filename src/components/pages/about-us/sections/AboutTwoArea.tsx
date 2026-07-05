@@ -8,9 +8,9 @@ const AboutTwoArea = () => {
                     <div className="col-xl-9">
                         <div className="px-inner-about-1-top mb-70 px-fade-anim">
                             <p>
-                                Pixora Design Agency delivers{" "}
+                                QuranWeb Studio delivers{" "}
                                 <span>
-                                    creative, innovative, and tailored design solutions.
+                                    premium, purpose-built websites exclusively for Quran academies and Islamic institutions.
                                 </span>
                             </p>
                         </div>
@@ -29,22 +29,17 @@ const AboutTwoArea = () => {
                             <div className="px-fade-anim">
                                 <p className="mb-20">
                                     Our approach is simple: we focus on
-                                    functionality, speed, and clarity, ensuring that
-                                    every project serves aclear purpose without
-                                    unnecessary complexity.
+                                    functionality, accessibility, and Islamic aesthetics, ensuring that
+                                    every website serves the unique needs of Quran academies.
                                 </p>
                             </div>
                             <div className="px-fade-anim">
                                 <p className="fw-400 mb-40">
-                                    Our approach is all about understanding your needs & bringing
-                                    your ideas to life without complexity. We thrive turning imaginative
-                                    concepts into user friendly digital solutions. Whether it&apos;s a sleek website,
-                                    a user-friendly app or a memorable brand identity, we focus on
-                                    creating designs that not only.
+                                    We understand the specific requirements of Islamic education institutions—from student enrollment systems to online class scheduling, teacher profiles to donation portals. Our solutions help Quran academies connect with students and families worldwide, making quality Islamic education accessible to everyone.
                                 </p>
                             </div>
                             <div className="px-fade-anim">
-                                <SmartLink className="px-btn-black" href="/portfolio-1">Portfolio</SmartLink>
+                                <SmartLink className="px-btn-black" href="/portfolio-1">Our Portfolio</SmartLink>
                             </div>
                         </div>
                     </div>
